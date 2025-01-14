@@ -1,4 +1,4 @@
-"""print("1. Realice las siguientes operaciones. Los operandos son 3 y 4")
+print("1. Realice las siguientes operaciones. Los operandos son 3 y 4")
 #SUMA
 print(3 + 4)
 
@@ -27,7 +27,7 @@ print(type(10))
 print(type(9.8))
 print(type(4-4j))
 print(type(['Adrian','Python','Ecuador']))
-print(type('Adrian'))"""
+print(type('Adrian'))
 
 print(2 // 3)
 print(10 // 8)
